@@ -1,0 +1,28 @@
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\bin\Debug\netcoreapp3.1\practika_16.exe
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\bin\Debug\netcoreapp3.1\practika_16.deps.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\bin\Debug\netcoreapp3.1\practika_16.runtimeconfig.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\bin\Debug\netcoreapp3.1\practika_16.runtimeconfig.dev.json
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\bin\Debug\netcoreapp3.1\practika_16.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\bin\Debug\netcoreapp3.1\practika_16.pdb
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.csproj.AssemblyReference.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.GeneratedMSBuildEditorConfig.editorconfig
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.AssemblyInfoInputs.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.AssemblyInfo.cs
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.csproj.CoreCompileInputs.cache
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.dll
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.pdb
+\\192.168.13.111\компьютерные классы\2021_Группа ПР-23-(21-22г) (Основы алгоритмизации и прогр.)\Русалов Мурад\practika_16\obj\Debug\netcoreapp3.1\practika_16.genruntimeconfig.cache
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.csproj.AssemblyReference.cache
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.GeneratedMSBuildEditorConfig.editorconfig
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.AssemblyInfoInputs.cache
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.AssemblyInfo.cs
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.csproj.CoreCompileInputs.cache
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.dll
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.pdb
+E:\practika_16\bin\Debug\netcoreapp3.1\practika_16.exe
+E:\practika_16\bin\Debug\netcoreapp3.1\practika_16.deps.json
+E:\practika_16\bin\Debug\netcoreapp3.1\practika_16.runtimeconfig.json
+E:\practika_16\bin\Debug\netcoreapp3.1\practika_16.runtimeconfig.dev.json
+E:\practika_16\bin\Debug\netcoreapp3.1\practika_16.dll
+E:\practika_16\bin\Debug\netcoreapp3.1\practika_16.pdb
+E:\practika_16\obj\Debug\netcoreapp3.1\practika_16.genruntimeconfig.cache
